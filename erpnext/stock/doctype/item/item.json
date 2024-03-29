@@ -491,7 +491,7 @@
    "fieldname": "has_variants",
    "fieldtype": "Check",
    "in_standard_filter": 1,
-   "label": "Has Variants"
+   "label": "Complex Item"
   },
   {
    "default": "Item Attribute",
